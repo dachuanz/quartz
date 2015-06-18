@@ -2,9 +2,7 @@ package net.oschina.quartzutils.utils;
 
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
-
 import net.oschina.quartzutils.jobean.ScheduleJob;
-
 import org.apache.commons.lang.StringUtils;
 import org.apache.log4j.Logger;
 
