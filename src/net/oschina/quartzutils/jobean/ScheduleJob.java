@@ -28,7 +28,8 @@ public class ScheduleJob {
 	 */
 	public static final String MISFIRE_STATUS_DO_NOTHING = "0";
 	/**
-	 * 以错过的第一个频率时间立刻开始执行 重做错过的所有频率周期后 当下一次触发频率发生时间大于当前时间后，再按照正常的Cron频率依次执行
+	 * 以错过的第一个频率时间立刻开始执行 重做错过的所有频率周期后 
+	 * 当下一次触发频率发生时间大于当前时间后，再按照正常的Cron频率依次执行
 	 */
 	public static final String MISFIRE_STATUS_IGNORE_MISFIRES = "1";
 	/**
