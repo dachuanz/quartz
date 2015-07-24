@@ -2,10 +2,10 @@
 依赖jar quartz-2.2.1.jar
 下载地址：[quartz](http://www.quartz-scheduler.org/)
 <table class="table table-bordered table-striped table-condensed">
-   <th>
-      <td>Expression </td>
-      <td>Meaning</td>
-   </th>
+   <tr>
+      <th>Expression </th>
+      <th>Meaning</th>
+   </tr>
    <tr>
       <td>0 0 12 * * ? </td>
       <td>Fire at 12pm (noon) every day</td>
