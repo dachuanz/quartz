@@ -4,7 +4,7 @@ import java.util.Date;
 /**
  * 
  * @author zdc
- *
+ *通用任务类
  */
 public class ScheduleJob {
 	public static final String STATUS_RUNNING = "1";
