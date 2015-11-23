@@ -96,7 +96,7 @@ public class QuartzUtils {
 		logger.debug(scheduler
 				+ ".......................................................................................standby");
 		scheduler.standby();
-		;
+		
 
 	}
 
