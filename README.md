@@ -1,5 +1,6 @@
 ﻿#QuartzUtils
 依赖jar quartz-2.2.2.jar
+由于 quartz 的升级，必须使用 java 1.6及以上版本
 下载地址：[quartz](http://www.quartz-scheduler.org/)
 <table class="table table-bordered table-striped table-condensed">
    <tr>
