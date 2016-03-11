@@ -16,7 +16,7 @@ import org.quartz.JobExecutionException;
 
 /**
  * 
- * @author zdc
+ * @author 张大川
  *
  */
 @DisallowConcurrentExecution
