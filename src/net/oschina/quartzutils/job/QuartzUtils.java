@@ -35,7 +35,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 /**
  * 
- * 使用quartz 2.2 进行任务调度
+ * 使用quartz 2.2.3 进行任务调度
  *
  * @author zdc
  *
