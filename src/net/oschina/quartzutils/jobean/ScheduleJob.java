@@ -3,7 +3,7 @@ package net.oschina.quartzutils.jobean;
 import java.util.Date;
 /**
  * 
- * @author zdc
+ * @author 张大川
  *通用任务类
  */
 public class ScheduleJob {
